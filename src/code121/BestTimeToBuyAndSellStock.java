@@ -1,13 +1,19 @@
 package code121;
 
+/**
+ * @author ryoishizawa
+ * 
+ * 121. Best Time to Buy and Sell Stock
+ */
 public class BestTimeToBuyAndSellStock {
 
 }
 
-// 121. Best Time to Buy and Sell Stock
-// Brute force approach
-// Time Complexity: O(n^2), Space Complexity: O(1)
 class Solution {
+    /**
+     * Brute force approach
+     * Time Complexity: O(n^2), Space Complexity: O(1)
+     */
     public int maxProfit(int[] prices) {
         int maxValue = 0;
         for (int i = 0; i < prices.length; i++) {
@@ -21,8 +27,11 @@ class Solution {
     }
 }
 
-// Single pass approach
-// Time Complexity: O(n), Space Complexity: O(1)
+
+/**
+ * Single pass approach
+ * Time Complexity: O(n), Space Complexity: O(1)
+ */
 class SolutionV2 {
     public int maxProfit(int[] prices) {
         int minValue = Integer.MAX_VALUE;
