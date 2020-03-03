@@ -1,4 +1,4 @@
-package code121;
+package code121_best_time_to_buy_and_sell_stock;
 
 public class BestTimeToBuyAndSellStock {
 
