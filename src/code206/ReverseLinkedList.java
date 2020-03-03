@@ -1,3 +1,11 @@
+package code206;
+
+import common.ListNode;
+
+public class ReverseLinkedList {
+
+}
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

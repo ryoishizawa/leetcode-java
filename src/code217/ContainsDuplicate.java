@@ -1,3 +1,12 @@
+package code217;
+
+import java.util.*;
+
+public class ContainsDuplicate {
+	
+}
+
+
 // LeetCode 217. Contains Duplicate
 // HashTable Approach - Time: O(n), Space: O(n)
 // Better Approach: Use HashSet to make it simpler (No need to store index in HashMap)

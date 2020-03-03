@@ -1,3 +1,11 @@
+package code242;
+
+import java.util.*;
+
+public class ValidAnagram {
+
+}
+
 // LeetCode 242. Valid Anagram
 // Hash Table
 // Time complexity: O(n), Space Complexity: 0(n)

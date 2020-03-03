@@ -1,3 +1,9 @@
+package code121;
+
+public class BestTimeToBuyAndSellStock {
+
+}
+
 // 121. Best Time to Buy and Sell Stock
 // Brute force approach
 // Time Complexity: O(n^2), Space Complexity: O(1)

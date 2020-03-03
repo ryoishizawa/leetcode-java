@@ -1,3 +1,12 @@
+package code001;
+import java.util.*;
+
+public class TwoSum {
+	public static void main(String[] args) {
+
+	}
+}
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         // create hash table - key: integer, value: index
