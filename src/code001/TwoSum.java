@@ -1,4 +1,4 @@
-package code001.twosum;
+package code001;
 import java.util.*;
 
 public class TwoSum {
